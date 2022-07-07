@@ -1,0 +1,39 @@
+# Blender MTL File: 'None'
+# Material Count: 3
+
+newmtl Secondary
+Ns 55.867775
+Ka 1.000000 1.000000 1.000000
+Kd 0.737911 0.155926 0.012286
+Ks 0.159091 0.159091 0.159091
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Sword&Fur
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump D:\\street\\kn\\source\\texture\\Substance\\sword\\sword_Normal_OpenGL.png
+map_Kd nude.png
+map_Ns D:\\street\\kn\\source\\texture\\Substance\\sword\\sword_Roughness.png
+refl D:\\street\\kn\\source\\texture\\Substance\\sword\\sword_Metallic.png
+
+newmtl face
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 0.500000 D:\\street\\kn\\source\\texture\\Face_Dif(full)2.png
+map_Kd nude.png
+map_Ns D:\\street\\kn\\source\\texture\\Face_roughness.png

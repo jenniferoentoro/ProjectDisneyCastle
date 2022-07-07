@@ -321,8 +321,7 @@ namespace DisneyCastle
 
             var _cameraPosInit = new Vector3(0, 0.5f, 0.5f);
             _camera = new Camera(_cameraPosInit, Size.X / (float)Size.Y);
-            /* _camera.Fov = 90f;
-             _camera.Yaw -= 90f;*/
+        
             CursorGrabbed = true;
             base.OnLoad();
         }
